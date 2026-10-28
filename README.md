@@ -2,7 +2,7 @@
 
 * **Předmět:** Úvod do softwarového inženýrství
 * **Autor:** Ruslan Naumov
-* **Repozitář:** https://github.com/RuslanNum/CUSI.git
+* **Repozitář:** Https://github.com/RuslanNum/CUSI26.git
 
 ---
 
