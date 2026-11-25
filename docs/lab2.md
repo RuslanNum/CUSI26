@@ -6,6 +6,7 @@ Systém obsahuje 5 hlavních tříd a celkem 11 metod:
 
 ```mermaid
 classDiagram
+    direction TB
     class User {
         +int id
         +string full_name
